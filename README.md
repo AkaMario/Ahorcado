@@ -1,3 +1,3 @@
 # Ahorcado
 Actividad ADSI
-reference channel --> https://www.youtube.com/c/GermanRodriguezProgramador 
+Game --> http://127.0.0.1:5500/index.html 
